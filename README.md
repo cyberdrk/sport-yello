@@ -35,8 +35,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thank you [@Sarah](https://tutorials.botsfloor.com/@sarahnadia) for this [awesome blog](https://tutorials.botsfloor.com/how-to-code-a-simple-twitter-bot-for-complete-beginners-36e37231e67d) that truly fills up some blanks
 * Thank you [Lauren Orsini](https://readwrite.com/author/lauren-orsini/) for the writing this [fantastic blog](http://readwrite.com/2014/06/20/random-non-sequitur-twitter-bot-instructions/?_escaped_fragment_=) upon which the blog below was based
+* Thank you [@Sarah](https://tutorials.botsfloor.com/@sarahnadia) for this [awesome blog](https://tutorials.botsfloor.com/how-to-code-a-simple-twitter-bot-for-complete-beginners-36e37231e67d) that truly fills up some blanks
 * Hat tip to [Tom Meagher](https://github.com/tommeagher/heroku_ebooks) for his git repo that houses the heroku worker script! 
 
 ## Future Work 
