@@ -1,5 +1,5 @@
 # sport-yello
-A Twitter chatbot that tweets latest news in the field of sports. 
+A Twitter chatbot that tweets latest news in the field of sports. Say [yello](https://twitter.com/sport_yello)! 
 
 ## Getting Started
 
@@ -11,9 +11,9 @@ What things you need to install the software.
 Please check out the blogs mentioned under Acknowledgements to see a detailed way of how to get the softwares installed and running. 
 
 
-[Python 3.x](https://www.python.org/downloads/release/python-362/) 
-[Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
-[Git bash](https://git-scm.com/downloads)  
+-[Python 3.x](https://www.python.org/downloads/release/python-362/) 
+-[Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
+-[Git bash](https://git-scm.com/downloads)  
 
 
 
@@ -37,7 +37,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Thank you [@Sarah](https://tutorials.botsfloor.com/@sarahnadia) for this [awesome blog](https://tutorials.botsfloor.com/how-to-code-a-simple-twitter-bot-for-complete-beginners-36e37231e67d) that truly fills up some blanks
 * Thank you [Lauren Orsini](https://readwrite.com/author/lauren-orsini/) for the writing this [fantastic blog](http://readwrite.com/2014/06/20/random-non-sequitur-twitter-bot-instructions/?_escaped_fragment_=) upon which the blog below was based
-* Hat tip to [Tom Meagher](https://github.com/tommeagher/heroku_ebooks) for his git repo!
+* Hat tip to [Tom Meagher](https://github.com/tommeagher/heroku_ebooks) for his git repo that houses the heroku worker script! 
 
 ## Future Work 
 
