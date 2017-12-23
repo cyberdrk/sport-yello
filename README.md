@@ -1,5 +1,5 @@
 # sport-yello
-A Twitter chatbot that tweets latest news in the field of sports. Say [yello](https://twitter.com/sport_yello)! 
+A Twitter bot that tweets latest news in the field of sports. Say [yello](https://twitter.com/sport_yello)! 
 
 ## Getting Started
 
